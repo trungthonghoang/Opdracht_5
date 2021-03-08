@@ -1,0 +1,49 @@
+header {
+  border: 3px solid black;
+  margin-bottom: 3px;
+  text-align: center;
+  padding: auto;
+}
+
+main {
+  border: 3px solid black;
+  margin-bottom: 3px;
+  padding: auto;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+
+footer {
+  border: 3px solid black;
+  margin: auto;
+  width: fit-content;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+  text-align: center;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Title {
+  font-size: 25px;
+}
+
+.ondertitel {
+  color: #17252a;
+  font-size: 20px;
+}
+
+.border {
+  border: 5px solid black;
+}
